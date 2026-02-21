@@ -1,6 +1,5 @@
 /**
  * Author: Harjap Grewal
- * Course Name: CS4446
  * Description: A class to create a multicast tree.
  * I sometimes call processors nodes.
  */
@@ -204,3 +203,4 @@ public class Multicast extends Algorithm {
 	}
 
 }
+
