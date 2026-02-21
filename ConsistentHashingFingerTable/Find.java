@@ -1,7 +1,6 @@
 
 /**
  * Name: Harjap Grewal
- * Course: CS4446
  * Description: This class finds key values for processors 
  * 				and handles processors with the same hash value in a peer to peer network.
  */
@@ -338,3 +337,4 @@ public class Find extends Algorithm {
 		return result;
 	}
 }
+
