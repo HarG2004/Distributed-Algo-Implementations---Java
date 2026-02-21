@@ -1,6 +1,5 @@
 /**
  * Author: Harjap Grewal
- * Course Name: CS4446
  * Description: A class that finds the distance fromt the righmost processor in a line.
  */
 
@@ -132,3 +131,4 @@ public class CountProcessorsLine extends Algorithm {
 	}
 
 }
+
