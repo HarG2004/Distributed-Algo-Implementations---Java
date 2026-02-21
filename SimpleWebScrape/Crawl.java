@@ -4,8 +4,6 @@ import java.util.*;
 // Import java util for hashset and linkedlist.
 
 /**
- * 
- * Course: CS4446
  * Author: Harjap Grewal
  * Description: Crawl is a class that crawls through all possible pages from the base URL to find pages with all query words.
  *
