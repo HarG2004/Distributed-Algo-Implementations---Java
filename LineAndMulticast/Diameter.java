@@ -1,6 +1,5 @@
 /**
  * Author: Harjap Grewal
- * Course Name: CS4446
  * Description: Algorithm to get distance of each processor from their terminal and for the hub to return the diameter.
  */
 
@@ -153,3 +152,4 @@ public class Diameter extends Algorithm {
 	}
 
 }
+
